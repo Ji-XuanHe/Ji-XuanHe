@@ -37,8 +37,10 @@ My research lies in **low-level vision** and **computational imaging**, with a f
 
 ### Recent Work
 
-- **DTP** — A degradation-aware framework for low-light image super-resolution. *Accepted at ICME 2026.*
-- **SR²-Net** — A plug-and-play spectral refinement module for hyperspectral image reconstruction. *Under review.*
+- **DTP** — A degradation-aware framework for low-light image super-resolution. *Accepted at ICME 2026.*  
+  [[arXiv](https://arxiv.org/abs/2603.27301)] [[Code](https://github.com/JXVision/DTP)]
+- **SR²-Net** — A plug-and-play spectral refinement module for hyperspectral image reconstruction. *Under review at IJCAI 2026.*  
+  [[arXiv](https://arxiv.org/abs/2601.21338)]
 - **[ccg-paper](https://github.com/Ji-XuanHe/ccg-paper)** — An open-source multi-model collaborative workflow (Claude Code · Codex · Gemini) for top-tier conference paper writing, reviewing, and rebuttal.
 
 ### Honors
