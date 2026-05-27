@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Incoming Ph.D. Student · Xi'an Jiaotong University</b><br>
-  <i>Low-Level Vision · Hyperspectral Imaging · Physics-Informed Deep Learning</i>
+  <i>Low-Level Vision · Hyperspectral Imaging · Vision Agents</i>
 </p>
 
 <p align="center">
